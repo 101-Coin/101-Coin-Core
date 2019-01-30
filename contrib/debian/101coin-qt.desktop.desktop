@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=101coin
+Comment=101coin P2P Cryptocurrency
+Exec=101coin-qt %u
+Terminal=false
+Type=Application
+Icon=101coin128
+MimeType=x-scheme-handler/101coin;
+Categories=Office;Finance;
+Name[en_US]=101coin-qt.desktop
