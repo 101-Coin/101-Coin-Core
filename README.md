@@ -1,8 +1,8 @@
-Bitcoin Green Core integration/staging repository
+101 Coin Core integration/staging repository
 =================================================
 [![Build Status](https://travis-ci.org/101coin/101coin.svg?branch=master)](https://travis-ci.org/101coin/101coin) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-Bitcoin Green (101) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s vision for Bitcoin. It is a decentralized, peer-to-peer transactional currency designed to offer a solution to the problem posed by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. Proof-of-work mining is environmentally unsustainable due to the electricity used by high-powered mining hardware. Bitcoin Green utilizes the Green Protocol, an energy efficient proof-of-stake algorithm inspired by PIVX/DASH, can be mined on any computer, and will never require specialized mining equipment. The Green Protocol offers a simple solution to Bitcoin sustainability issues and provides a faster, more scalable blockchain that is better suited for daily transactional use.
+101 Coin (101) is a sustainable cryptocurrency modeled after Satoshi Nakamoto’s vision for Bitcoin. It is a decentralized, peer-to-peer transactional currency designed to offer a solution to the problem posed by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. Proof-of-work mining is environmentally unsustainable due to the electricity used by high-powered mining hardware. Bitcoin Green utilizes the Green Protocol, an energy efficient proof-of-stake algorithm inspired by PIVX/DASH, can be mined on any computer, and will never require specialized mining equipment. The Green Protocol offers a simple solution to Bitcoin sustainability issues and provides a faster, more scalable blockchain that is better suited for daily transactional use.
 
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
